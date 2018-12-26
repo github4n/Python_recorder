@@ -1,0 +1,211 @@
+Real-time data informs you instantly of apneic events By immediately discovering if your patients have a low or high apneic score, you can quickly and easily determine their need for a PSG.	让您实时获知呼吸事件 通过即时发现患者的呼吸暂停评分高低情况，您可以快速简单地判断出患者是否需要进行多导睡眠监测 (PSG)。
+Nine-hour recording time for a full night's results Nine-hour recording time for a full night's results	9 小时超长记录时间，完整记录夜间情况 9 小时超长记录时间，完整记录夜间情况
+Superb spatial resolution xFine turns information into insight when you can see the fine details.Using a 2mm whole-body clinical reconstruction protocol, xFine offers superb spatial resolution, so you can draw regions of interest around small structures with increased confidence.	PET自动聚焦采集技术显著提高了病灶探测能力PET自动聚焦采集技术在第三代TOF技术基础上，进一步提高PET灵敏度增益，提高了病灶探测能力，同时提高PET的采集速度，可实现30s/床位的快速采集。
+Stable, reproducible quantification xCalibrate makes certain your quantification capabilities remain stable and reproducible across a range of studies.	4D TOF呼吸运动管理系统可显著减少呼吸运动带来的图像质量下降 4D TOF呼吸运动管理系统是可用于CT、PET 和PET/CT呼吸相关成像的全面工具。
+Excellent resolution compensation Use xSharp to see true activity distribution – especially with small objects.	iDose成像平台，让您实现低剂量高图像质量的梦想 iDose成像平台在不降低图像质量的情况下，有效的降低辐射剂量。
+The wide field of view helps patients to feel more at ease while wearing a mask.	开阔的视野有助于患者在佩戴面罩时感到更加放松。
+Available in single- or multi-use to suit your protocols The multi-use PerforMax is designed to withstand disinfection and autoclaving, to minimize cross-contamination between patients.	根据适合您的方案，可选择一次性和重复使用型面罩 重复使用型 PerforMax 的设计能够承受多次消毒和高压灭菌操作，以尽可能地减小患者之间的交叉污染。
+The choice of a standard elbow (SE) for dual-limb circuits and entrainment elbow (EE) for single limb circuit allows the PerforMax to work with most ventilators with Non-Invasive mode of ventilation.	选择用于双支回路的标准弯管(SE)和用于单支回路的带安全漏气口弯管(EE)允许 PerforMax 在多种呼吸机的无创通气模式下工作。
+Extensive fetal parameters when key information is needed For more complex cases, the Avalon FM50 fetal monitor offers external and internal fetal parameters.	广泛的胎儿参数用于需要关键信息的情况 对于更多复杂情况，Avalon FM50 胎儿监护仪可提供外部的和内部的胎儿参数。这些参数包括：胎心率、胎动、直接胎心率、宫缩压力与子宫内压力，以及孕产妇血压、脉率、心电图 (ECG) 和血氧饱和度 (Sp02 )。
+You can screen and diagnose, evaluate treatment and perform follow-up studies wherever you are.	您可以在任何地方进行监测和诊断、评估治疗效果和后续研究。
+This gives you the flexibility you need to run your business more simply and easily.	这将给予您足够的灵活性，让您的工作更简单更便捷。
+Advanced flexibility lets sleep clinicians customize reports The Stardust II comes with seven channels and a wide range of sensors.	高度灵活性让睡眠临床医生可以定制报告 Stardust II 带有 7 个通道和多种传感器。
+The Effort Sensor measures chest or abdominal effort.	呼吸努力传感器用于测量胸腔或腹腔呼吸努力程度。
+And the Body Position Monitor measures supine or non-supine sleeping position.	体位监测器用于监测仰卧或非仰卧睡姿。
+One study showed EmboGuide detects 50% more feeders than standard DSA¹	一项研究表明，EmobGuide 可探测到比标准 DSA 检测（数字减影血管造影）多出50%的滋养血管。
+Fast detection &amp; volume measurementA 3D lesion segmentation tool allows the user to isolate the regions in a 3D volume from MR, CT, or XperCT, using image-specific features.	快速探测与体积测量具备3D病变图像分割功能，可以让术者利用此技术分割来自MR/CT及XperCT的图像。
+Variety of readings for comprehensive understanding This antepartum and intrapartum monitor provides a wide range of readings.	读数丰富，了解更全面 该产前胎儿监护仪可提供各种读数。
+The CTS also transmits data to the IntelliSpace Perinatal information system to add to the overall patient record.	CTS也能将数据传送到 IntelliSpace Perinatal 信息系统并添加到病人的总体病例中。
+Reliability features allow uninterrupted operation With the Avalon FM series, you have the confidence of an uninterrupted flow of information.	可靠性允许无间断性的操作 Avalon FM 系列不间断的信息流会让您感到信心十足。
+This supports the continuum of care from the first antepartum visit to delivery, postpartum, and newborn nursery, discharge and postpartum follow-up visits.	它可为孕产期全程监护提供支持：从首次产前检查到分娩、产后、新生儿记录、出院和产后随访的整个过程。
+Large, intuitive color display clearly shows status The luminous color display has large numerics and graphs so you can easily view maternal and fetal ECG waves.	大而直观的彩色显示屏，状态显示清晰 彩色显示屏明亮清晰，大字体显示，您可以轻松地观看母亲和胎儿的各种读数。
+This technology allows for improved penetration and excellent detailed resolution.	数百万计的检查都采用了 PureWave 技术。这仅是便携式分析可使用的卓越技术之一。
+As well, the L12-3 linear array transducer provides excellent breast imaging.	而且，L12-3 线阵探头能够提供卓越的乳腺图像。
+QLAB quantification software to expand diagnostic information The CX50 offers assessment and analysis capabilities with QLAB’s Q-Apps: GI 3D quantification (GI 3DQ), Region of interest (ROI),	QLAB 定量软件，扩展诊断信息 CX50 使用 QLAB 的以下 Q-Apps，提供测评和分析功能：GI 3D 量化 (GI 3DQ)、感兴趣区域 (ROI)、
+The on‐screen menu guides you through the required views for a specific exam type, automatically enters annotation, and builds your report.	屏幕显示的菜单能够显示所需要的视图，指导您选择特定的检查种类，自动输入注释并建立您的报告。
+Now you can navigate with a new level of utility, and take premium performance where fast responses are needed.	现在，该设备的实用性又上了一个新台阶，在任意需要快速反应的场合，它都可以祝您实现卓越表现。
+With its convenient travel case, you can easily take the CX50 to distant clinical locations.	凭借其便携式旅行箱，您能够将 CX50 轻松带至任何较远的临床诊所。
+External touch display option for flexibility The optional external touch display gives caregivers flexibility in placing the monitor where it can be easily viewed by family members and caregivers.	外部触摸屏选项方便灵活 可选择的外部触摸屏为医护人员带来方便，监护仪可灵活地放置在家人和医护人员易于观看的地方。
+Large, intuitive color display clearly shows status The luminous color display has large numerics and graphs so you can easily view maternal and fetal ECG waves.	大而直观的彩色显示屏，状态清晰显示 彩色显示屏明亮清晰，大字体显示，您可以轻松地观看母亲和胎儿的各种读数。
+Merge ECGs from multiple Philips defibrillators for the same patient into one case.	合并多个飞利浦除颤器中相同患者的心电图到一张护理表中。
+Sensitive and homogeneous (patients are models)	敏感和同质（患者为模型）
+Similar immunogenicity profile to originator	与原研药的免疫原性相似
+Possible if justified	若得到合理解释，则可能
+Not allowed; clinical trials required in each indication	不允许；需要对各种适应证进行临床研究
+Uncertainty regarding long-term efficacy of biosimilar candidates	与候选生物类似药长期疗效相关的不确定性
+Reference product:	参照药：
+Long-term efficacy well characterized.	以充分确认长期疗效。
+With regard to long-term outcome (efficacy and safety) potential differences between the biosimilar candidate and the reference product cannot be excluded.	对于长期结局（疗效和安全性），不能排除候选生物类似药和参照药之间存在潜在差异。
+?	?
+To mitigate the risk of differences in the “extrapolated” indication despite similarity established for the sensitive endpoint.	降低“外推”适应证存在差异的风险，即使已确定敏感终点具有相似性
+Comparability should be demonstrated in scientifically appropriately sensitive clinical models and study conditions (whether licensed or not), and the applicant should justify that the model is relevant as regards efficacy and safety, and sensitive to demonstrate comparability in the indication(s) applied for.	应使用具有科学依据的敏感临床模型和研究条件（无论是否获得许可）证实可比性，同时申请者应证明所使用的模型在疗效和安全性方面相关且在所应用的适应证中具有显示出可比性的敏感性。
+e.g., trastuzumab in early breast cancer/neoadjuvant/adjuvant setting	如，用于早期乳腺癌/新辅助/辅助治疗的曲妥珠单抗
+Appropriately “sensitive” and homogenous study populations are necessary to increase the chances of detecting potential differences between a biosimilar candidate and the reference product.	需要选择合适且“敏感”的同质人群，以增加检测出候选生物类似药与参照药之间存在潜在差异的几率。
+Guideline on mAb biosimilars 2012:	Guideline on mAb biosimilars 2012:
+Response as an endpoint for biosimilar trials	缓解作为生物类似药试验的终点
+Study endpoints:	研究终点：
+ORR may be preferable for detecting differences between products although it is not always associated with long-term improvements in patient outcome.	虽然ORR与患者结局长期改善不一定相关，但可作为检测产品差异的首选指标。
+Case example Herceptin:	赫赛汀研究举例：
+Early Breast Cancer (EBC)	早期乳腺癌（EBC）
+Endpoints	终点
+EMA states1	EMA规定1
+However, these may not be feasible	但这些终点或许不可行
+Guidance pCR 2014 .	Guidance pCR 2014 .
+Loss of 20.5%	损失20.5%
+Primary analysis on tpCR	tpCR主要分析
+BC: breast cancer; EFS: event-free survival; tpCR: total pathologic complete response;	BC：乳腺癌；EFS：无事件生存；tpCR：总体病理完全缓解。
+Predicted maximum loss in long-term efficacy (PFS) =36.9%	长期疗效（PFS）的最大预期损失=36.9%
+Primary analysis on ORR	ORR主要分析
+For efficacy: pCR is an appropriate endpoint with equivalence margins ~10% (requiring about 900 patients)	对于疗效：pCR是合适终点，等效性界值约为10%（需要约900名患者）
+MBC: metastatic breast cancer; pCR: pathologic complete response	MBC：转移性乳腺癌；pCR：病理完全缓解。
+Premenarchal vulvar lichen sclerosus has also been shown to respond well to topical clobetasol propionate ointment (see Chap. 14, Lichen Sclerosus) (Smith, 2001).	局部应用丙酸氯倍他索软膏对月经初潮前出现的外阴硬化性苔藓也有良好的疗效（见第14章硬化性苔癣） (Smith,2001)。
+Severity scores decreased in all categories including symptoms, gross appearance, and histopathologic findings (Mazdisnian, 1999).	对症状、大体表现和组织病理学结果进行严格评分，治疗后分数均降低(Mazdisnian,，1999)。
+Topical estrogen therapy, however, is not recommended as primary therapy for lichen sclerosus.	需要注意的是，不推荐将局部雌激素治疗作为硬化性苔藓的首选治疗。
+Assmann (2003) reported successful treatment of vulvar lichen sclerosus using 0.1-percent tacrolimus twice daily.	Assmann(2003)报道应用0.1%他克莫斯 一天2次可成功治疗外阴硬化性苔藓。
+Re-agglutination can be averted using an adhesion barrier such as Surgicel (Ethicon, Piscataway, NJ) in combination with nightly application of ultrapotent topical steroid ointment (Breech, 2000).	防粘连药物，如止血纱布〔爱惜康，皮斯卡塔韦（美国新泽西州东北部的一个镇区）〕，联合每晚局部使用超强效类固醇药物，可以避免术后再次形成粘连(Breech,2002）。
+FIGURE 4-3 Vulvar contact dermatitis.	图4-3外阴接触性皮炎。
+Table 4-4 Offending Agents Commonly Implicated in Allergic Contact Dermatitis	表4-4引起过敏性接触性皮炎的常见物质
+Framycetin	新霉素B
+Clobetasol propionate	丙酸氯倍他索
+Sanitary pads	月经带
+With allergic contact dermatitis, patch testing may aid in identifying a responsible allergen(s).	斑贴试验可以协助证实过敏性接触性皮炎的过敏原。
+Stop offending agents and/or practices	去除刺激物和/(或)练习习惯刺激物
+Sitz bath twice daily with plain water	清水每日坐浴2次
+Application of plain petrolatum	使用普通凡士林
+Systemic steroids for severe irritation	严重刺激时全身应用类固醇药物
+Cool packs (no ice packs, as these may injure skin)	降温（因为可能损伤皮肤，不使用冰块〕
+Although most commonly seen in the inner thigh aspect of the genitocrural folds, skin changes can also be found in the inguinal and intergluteal regions.	最常见于大腿内侧生殖器与腿的皱褶处，也可见于腹股沟和臀内侧区域。
+Secondary bacterial and fungal infections may complicate the disease process.	继发的细菌和真菌感染可使病变复杂。
+If superinfection with bacteria or yeast develops, appropriate culture-based therapy is warranted.	如果合并细菌或真菌二重感染，需要进行以培养为基础的治疗。
+Scaly patches with fissuring are evident on examination.	体检发现具有皲裂的带鳞屑斑片具有诊断意义。
+Atopic eczema affects 10 to 20 percent of children in the United States, and these individuals may later develop allergic rhinitis and asthma (Spergel, 2003).	美国10%-20%的幼儿患遗传性过敏性湿疹，这些患儿可能最终出现过敏性鼻炎或哮喘 〔Spergel,2003）。
+Raised, inflamed, red plaques are covered with silvery-white scales. (From Wolff, 2005b, with permission.)	覆盖着银白色鱗屑的凸起红肿斑块(经许可引自Wolff,2005b)
+Several treatments are available for psoriasis, and those recalcitrant to topical corticosteroids are best managed by a dermatologist.	银屑病有多种方法治疗，局部皮质类固醇药物治疗无效的患者最好由皮肤科医师治疗。
+Although much is unknown about the etiology of lichen planus, it is believed to be related to T-cell related autoimmunity to basal keratinocytes (Goldstein, 2005).	因不清，目前认为与针对角朊细胞的T细胞相关的自身免疫有关（Goldstein，2005）。
+Women typically complain of chronic vaginal discharge with intense pruritus, dyspareunia, and postcoital bleeding.	女性的典型主诉是阴道慢性排液，伴剧烈瘙痒、性交疼痛和性交后出血。
+On physical examination, papules classically seen with lichen planus are violaceous, flat-topped, shiny polygons most commonly present on flexor surfaces of the extremities, trunk, or buccal mucosa (Fig. 4-5) (Goldstein, 2005; Zellis, 1996).	典型的扁平苔藓体格检查表现为紫罗兰色平顶的多角形丘疹，常见于手足屈侧表面、躯干和口腔黏膜（图4-5，彩图 4-4〕〈Goldstein,2005 ； Zellis, 1996)。
+Additionally, white striae (Wickham striae) are frequently found in conjunction with the papules, and nail dystrophy may be noted.	此外，白色细沟（细沟）常与丘疫同时出现，还可见到指甲营养不良。
+Wickham striae are seen as white reticulated lines that are visible in the lesions of lichen planus. (Courtesy of Dr. Edward Ellis.)	扁平苔藓病损内可见的白色网状线条即细沟 (由Edward Ellis博士提供）
+(1) erosive lichen planus, (2) papulosquamous lichen planus, and (3) hypertrophic lichen planus.	①侵蚀性扁平苔藓；②丘疹鳞屑性扁平苔藓和③营养不良性扁平苔藓。
+Key Features of Mimicking Condition	鉴别关键点
+Results show that: the contents of rat glycogen and succinic dehydrogenase (SDH) were not remarkably changed, while the level of myoglobulin adenosine triphosphatase (M ATPase) decreased and LDH increased markedly.	实验结果表明：慢性束缚所致疲劳大鼠的糖原与琥珀酸脱氢酶（SDH）含量无显著改变，肌球蛋白三磷酸腺苷酶（M?ATPase）明显降低，乳酸脱氢酶（LDH）明显升高；
+Results show that:1) no matter how wind direction changes, the positive/negative Doppler speed areas of low-level jets are always symmetric about the radar site, and the real wind speed profile can be inferred from the zero velocity contour distribution of D	结果表明 :不论风向如何变化,低空急流的多普勒正负速度区关于显示中心成对称分布,从多普勒速度的零速度线分布可以得到实际风场的风向廓线。
+Results show when velocity of flow remains unchanged in the onflow area and openness of the tube is changed, then resistance coefficient ζ changes obviously.	实验结果表明：在湍流区域内流速（量）不变时，改变管件开度，阻力系数ζ变化较显著；改变流量，管件开度不变时，ζ变化不大。
+Results show, 1) the teleconnection between extreme precipitation of Ease China and the same season SST of north Pacific is mainly in NINO area (NINO 1-2 area most);	结果表明，1)我国东部夏季极端降水量空间分布与同期太平洋SST的遥相关型主要集中在整个NINO海区(以NINO1-2区为最)；
+Results showed (1) Iow mAs and kVp CT scanning was practicable and of great clinical value because it decreased exposure dose but without severe influence on precision of BMD measurement;	结果提示:(1)低mas、低kVp扫描是可行的,既大大降低扫描剂量,又不显著影响BMD值,故具重要的临床应用价值;
+Results showed that 12 bacterium strains could significantly decrease the disease index of this disease. In field plot, the 10 bacteria strains of these 12 bacteria showed significant efficacy to control this disease. Among them, the bacterium strain X	通过室内盆栽试验,筛选到对黄瓜白粉病具有显著防治效果(≥90.0%)的细菌12个菌株进行田间小区防病试验,结果表明其中10个菌株具有显著的防治效果,菌株XJT-7、NZT-14-84 和BDT-25的防治效果较好,分别为79.02%、67.51%和57.38%。
+Results showed that ASPl, with Mn=2.84X 105, was composed of Xy1 which is the main constituent, Glu and Ara monosaccharides.	结果表明，ASP1数均分子量Mn=2.84×10~5，主要以木糖组成，含有少量葡萄糖和阿拉伯糖。
+Results showed that Chinese bayberry fruit could be stored for 13 days at 0℃ and for 5 days at 20℃, respectively.	结果表明,杨梅果实经1-MCP处理后,0℃下可保鲜13d,20℃下可保鲜5d。
+Results showed that F1 antibody in serum peaked rapidly af-ter fundamental immunity 20 dyas with GMT of 114, and the bacterin induced enough immunogenicity for all the guinea pigs against the challenge exposure with 1 billion cells of the virulent strain 1	结果表明，加强免疫20天后血清F1抗体迅速达到高峰，几何平均滴度为114，至4个月时尚能100％保护豚鼠耐受强毒鼠疫菌141株10亿菌体的攻击，它比生物制品规程中免疫力试验要求攻击的菌量大105倍，仍然获得较好的免疫效果。
+Results showed that FⅠP contained complete amino acids, the average essential amino acid contents were much higher than that of the FAO reference protein standard. Besides, according to homogenized leaf curing (HLC) process, the tobacco leaves from wh	FⅠ蛋白氨基酸成分分析的结果表明,它具有完全氨基酸,其必需氨基酸含量高于世界粮农组织 (FAO)制定的蛋白制品中必需氨基酸的含量标准
+Results showed that Manzate and Bordeaux Mixture, two protection fungicides, had long protection effect. The effect of the two fungicides on preventing scab infection was above 50% 10 days after application.	结果表明 :猛杀生和波尔多液两种保护剂的持效期较长,施药后 10d,保护作用效果仍在 5 0 %以上;
+Results showed that May was the best date for explant inoculation. The explant was good for bud growth and brown lightening, treated by8-HQS, inoculated in AS+6-BA2.0mg /mL+IBA0.05mg /mL+GA 3 0.2mg /mL+ascorbate acid0.3mg /mL, prophase in dark, anaphase i	结果表明,外植体接种最佳时间为5月份,经8-HQS处理的外植体,接种于AS+6-BA2.0mg/mL+IBA0.05mg/mL+GA30.2mg/mL+抗坏血酸0.3mg/mL的培养基中,前期暗光,后期每天10h光照培养,有利于芽的生长增殖及减轻褐变。
+Results showed that SC and LL could significantly improve SOD activity of heart, GR activity of serum and tissues (P < 0.05) and significantly decreased the content of MDA in serum and heart of broilers(P < 0.05) .	结果显示:女贞子、五味子可提高肉鸡心脏超氧化物歧化酶(SOD)活性(P<0.05),以及血清和组织谷胱甘肽还原酶(GR)活性(P<0.05),降低血清和心脏丙二醛(MDA)含量(P<0.05)。
+Results showed that WD and BWO weremore effective than Deet and DMP at ED50 level in initial sensitivity tests.	其结果为在ED50水平时，蚊敌牌驱虫剂和避蚊油对宽新蚤的最初敏感性高于Deet和DMP。
+Results showed that a clear inhibitory effect on the growth and rooting of shoot apices was observed in the presence of 10 g/L mannose, whereas 15 g/L was required to inhibit the growth of young seedlings derived from shoot apices.	结果表明,10 g/L的甘露糖使茎尖的出苗和生根受到明显抑制,而茎尖幼苗对甘露糖的耐受力较强,15 g/L甘露糖才能有效抑制幼苗生长。
+Results showed that at low exposure of hydrogen (less than 6L), usually the hydrogen atoms adsorb at the side of the dimer rows.	结果表明,在小于6L低的氢暴露量下,氢原子通常是吸附在Si的二聚原子列(dimer rows)的顶部。
+Results showed that compared with CDI, seed cotton yield under ADI increased by 21.1% with total water use efficiency and irrigation water use efficiency being improved by 17.9% and 20.9%, respectively.	根系分区交替滴灌技术在大田条件下可使籽棉产量比常规滴灌处理提高21.1%，总水分利用效率和灌溉水利用效率分别提高17.9%和20.9%。
+Results showed that eight hypotheses were rejected.	研究结果拒绝8项假设。
+Results showed that homophone effects were significant when priming from English to Chinese, but not from Chinese to English.	实验结果表明，在命名实验中，英—汉同音词启动效应显著，汉—英启动效应不显著；
+Results showed that in the business as usual case, SO 2 emission in Hunan will increase by 120% from 1995 (8 82 mil. ton) to 2020 (19 56 mil. ton), but damage cost will increase by 4 3 times, reaching 6 19 billion RMB in 2020 Results also showed the m	研究结果表明,随着今后湖南省经济和能源消费的增长,森林损失将继续增加 . 高排放方案下 2 0 2 0年SO2 排放将增长 1 2倍,但森林损失增长 4 3倍,边际损失高于 60 0 0元 /t .
+Results showed that it was realizable by taking such measures as using high inner-clad numerical aperture, appropriate rare-earth doped double-clad fiber and decreasing transmission loss of sunlight.	计算结果表明，通过采用内包层数值孔径较大、掺杂适当稀土元素的双包层光纤及减小太阳光传输过程中的损耗等措施提高光纤激光器对太阳能的吸收效率，可以实现太阳能直接抽运光纤激光器。
+Results showed that larvae inflicted, to some extent, feeding damages to Composite plants including Eupatorium adenophorum, Carpesium abrotanoides, Helianthus annuus, Xanthium sibiricum, and Centipeda minima.	测定结果表明，广聚萤叶甲除取食豚草外，幼虫还不同程度取食向日葵、苍耳、天明精、紫茎泽兰和石胡荽，成虫可取食向日葵、菊芋、苍耳和天明精等植物。
+Results showed that lhe levels of SFC and FDP in normal individuals were 48 .5 ± 15 .9ug/ml and 23 .0±1 5 .4ug/ml respectively and 74. 8 ± 23 .6ug/ml and 78. 1±11 .2ug/ml respectively in patients.	结果SFC和FDP值正常人分别为48.5±15．gmg/L和23.0±5．4μg／L，脑血栓患者分别为74．8±23.6mg／L和78．1±11.2μg/L。
+Results showed that low dosage of chemical herbicides could obviously increase the disease rates of Veronica persica caused by Colletotrichum gheosporioides.	结果表明,菌株QZ-97a孢子悬浮液与低剂量的化学除草剂氯氟吡氧乙酸(Fluroxypyr,氯氟吡氧乙酸)混用可显著提高对波斯婆婆纳的防效。
+Results showed that mAbCD28 and its Fab fragments were effective in inhibiting MLR in a dose-dependent fashion compared with the control IgG.	首先，在Wistar大鼠间的甲状旁腺移植中，对照组的MST为20.3+8.3天，而mAbCD28及其Fab片段可以使MST延长至47.2+24.2灭，其中有一例达到长期存活。
+Results showed that rarc earth oxide doped zirconia exhibited optimum performance of NHP dehydration at moderate conditions, in which NHP initial conversion was up to 97.0%, NVP initial selectivity 82.3%, and total initial yield 79.8%, while alkali oxide	初步研究显示,该催化剂以单斜相为主,催化NHP脱水转化率达到97.0%,NVP选择性82.3%,总收率79.8%。 而MOs(M=Na,K,Ca)使催化剂晶相以四方相为主,对羟乙基吡咯烷酮脱水反应有不利影响。
+Results showed that removal rates for MW/EDL/TiO_2 methods after 30 min were more than 80% for phenol, m-nitrophenol, p-chlorophenol and p-cresol, respectively. Removal rates for total organic carbon(TOC) of their solutions were all above 70%. The remov	结果表明,反应30 m in,微波辅助光催化作用(MW/EDL/TiO2)能去除80%以上的苯酚、间硝基苯酚、对氯苯酚和对甲酚,相应溶液的总有机碳(TOC)均减少70%以上,2-萘酚的去除率为59%,溶液TOC减少54%;
+Results showed that removal rates for MW/EDL/TiO_2 methods after 30 min were more than 80% for phenol, m-nitrophenol, p-chlorophenol and p-cresol, respectively. Removal rates for total organic carbon(TOC) of their solutions were all above 70%. The remova	结果表明,反应30 m in,微波辅助光催化作用(MW/EDL/TiO2)能去除80%以上的苯酚、间硝基苯酚、对氯苯酚和对甲酚,相应溶液的总有机碳(TOC)均减少70%以上,2-萘酚的去除率为59%,溶液TOC减少54%;
+Results showed that sediment yielded from slope chiefly come from arable land and bare land located at slope, and the quantity of sediment yielded from arable land located at the slope above 25°accounted for about 50% of the total sediment yielded from	结果表明,当地坡面流失的泥沙主要来源于坡耕地和裸地,25°以上陡坡耕地侵蚀的泥沙量,约占坡面产沙总量的50%。
+Results showed that sediment yielded from slope chiefly come from arable land and bare land located at slope, and the quantity of sediment yielded from arable land located at the slope above 25°accounted for about 50% of the total sediment yielded from slo	结果表明,当地坡面流失的泥沙主要来源于坡耕地和裸地,25°以上陡坡耕地侵蚀的泥沙量,约占坡面产沙总量的50%。
+seminal colliculus	精阜
+external spermatic fascia	精索外筋膜
+cervical plexus	颈丛
+carotid wall	颈动脉壁
+carotid sinus branch	颈动脉窦支
+carotid sulcus	颈动脉沟
+carotid canal	颈动脉管
+carotid tubercle	颈动脉结节
+carotid sheath	颈动脉鞘
+carotid glomus	颈动脉小球
+caroticotympanic canaliculi	颈鼓小管
+transverse nerve of neck	颈横神经
+intertransversarii anteriores cervicis	颈横突间前肌
+posterior region of neck	颈后区
+intrajugular process	颈静脉孔内突
+inferior bulb of internal jugular vein	颈静脉下球
+internal carotid nerve	颈内动脉神经
+ansa cervicalis	颈襻
+cervical enlargement	颈膨大
+cervical curvature	颈曲
+superior cervical ganglion	颈上神经节
+deep cervical vein	颈深静脉
+cervical nerves	颈神经
+lateral cervical nucleus	颈外侧核
+lateral cervical lymph nodes	颈外侧淋巴结
+inferior cervical cardiac nerve	颈下心神经
+middle cervical ganglion	颈中神经节
+middle cervical cardiac nerve	颈中心神经
+common carotid artery	颈总动脉
+posterior tibiofibular ligament	胫腓后韧带
+He can perform the intricate tasks of talking, writing, using delicate instruments, and achieving specialized patterns of movement required for dance routines, basketball, football, and so forth.	他能进行谈话、写字、使用精密仪器和完成跳舞、篮球、足球等所需要的特殊形式的运动。
+Here, we evaluated the protective effects of hydrogen-rich saline on the l-arginine (l-Arg)-induced acute pancreatitis (AP).	本实验旨在评估含氢水对L-精氨酸（以下简称为Arg）诱导的急性胰腺炎的治疗效应。
+Here, we focus on the potential for the use of these techniques in the diagnosis of schizophrenia and in the development of new drugs for its treatment.	在这里，我们着眼于用这些技术在精神分裂症的诊断和开发新的治疗药物方面的应用的可行性。
+However, olanzapine treatment produced significantly more weight gain in schizophrenia patients than in bipolar disorder patients.	但是，奥氮平治疗对精神分裂症患者产生的体重增加明显高于双相失常患者。
+However, phenotyping in that study was performed after pregnancy, and thus may not have accurately re?ected enzyme activity during pregnancy.	然而，此研究显型是在怀孕后测定，也许不能精确的反映孕期酶的活性。
+However, the precise molecular mechanisms by which IKK may contribute to the development of insulin resistance are not well understood.	但是，由IKK调控导致的胰岛素抵抗发生的精确的分子机制目前尚不清楚。
+However, their agreement was moderate with NAS (κ = 0.470 and κ = 0.511, respectively) and only fair to moderate with the Brunt criteria (κ = 0.365 and κ = 0.441, respectively).	但是他们与非酒精性脂肪性肝病活动评分之间只有中等程度的一致性（k= 0.470 and k=50.511, respectively），与Brunt标准之间仅表现出接近中等的一致性（K=0.365 ，K=0.441）。
+Calcium-sensing receptors in the PARATHYROID GLANDS play an important role in the maintenance of calcium HOMEOSTASIS by regulating the release of PARATHYROID HORMONE.	甲状旁腺中的钙敏感受体通过调节甲状旁腺素释放在钙稳态中发挥重要作用。
+CCR receptors with specificity for CHEMOKINE CCL1.	对趋化因子CCL1有特异性的CCR受体。
+CCR receptors with specificity for CHEMOKINE CCL2 and several other CCL2-related chemokines.	对趋化因子CCL2和几种其它CCL2相关趋化因子有特异性的CCR受体。
+CCR receptors with specificity for CHEMOKINE CCL20.	对趋化因子CCL20有特异性的CCR受体。
+Cell surface glycoproteins on lymphocytes and other leukocytes that mediate adhesion to specialized blood vessels called high endothelial venules.	淋巴细胞和其他白细胞上的细胞表面糖蛋白类，调节对叫做毛细血管后微静脉的专门血管的附着力。
+Cell surface proteins that bind biogenic amines with high affinity and regulate intracellular signals which influence the behavior of cells.	高亲和力结合生物胺并调节影响细胞行为的胞内信号的细胞表面蛋白质类。
+Cell surface proteins that bind cyclic AMP with high affinity and trigger intracellular changes which influence the behavior of cells.	高亲和力结合环AMP并激发影响细胞行为的胞内变化的细胞表面蛋白质类。
+Cell surface proteins that bind glutamate and directly gate ion channels in cell membranes.	结合谷氨酸盐并直接开关细胞膜内离子通道的细胞表面蛋白质类。
+Cell surface proteins that bind pancreatic hormones with high affinity and trigger intracellular changes which influence the behavior of cells.	高亲和力结合胰腺激素类并激发影响细胞行为的胞内变化的细胞表面蛋白质类。
+Cell surface proteins that bind pituitary hormones with high affinity and trigger intracellular changes influencing the behavior of cells.	高亲和力结合垂体激素类并激发影响细胞行为的胞内变化的细胞表面蛋白质类。
+Cell surface proteins that bind PURINES with high affinity and trigger intracellular changes which influence the behavior of cells.	高亲和力结合嘌呤类并激发影响细胞行为的胞内变化的细胞表面蛋白质类。
+Cell surface proteins that bind THROMBOXANES with high affinity and trigger intracellular changes influencing the behavior of cells.	高亲和力结合血栓烷类并激发影响细胞行为的胞内变化的细胞表面蛋白质类。
+Cell surface receptors that bind glycine with high affinity and trigger intracellular changes which influence the behavior of cells.	高亲和力结合甘氨酸并激发影响细胞行为的胞内变化的细胞表面受体。
+Cell surface receptors that bind the hypothalamic hormones regulating pituitary cell differentiation, proliferation, and hormone synthesis and release, including the pituitary-releasing and release-inhibiting hormones.	结合调节垂体细胞分化、增生以及激素合成和释放的下丘脑激素的细胞表面受体，包括垂体释放和释放抑制激素。
+Cell surface receptors that bind to ACETYLGLUCOSAMINE.	结合到乙酰氨基葡糖的细胞表面受体。
+Cell surface receptors that bind to and transport FOLIC ACID,5-methyltetrahydrofolate, and a variety of folic acid derivatives.	细胞表面受体，可结合并运输叶酸、5-甲基甲氢叶酸盐和多种叶酸衍生物。
+Cell-surface receptors that bind LEUKOTRIENES with high affinity and trigger intracellular changes influencing the behavior of cells.	高亲和力结合白三烯类并激发影响细胞行为的胞内变化的细胞表面受体。
+Chemically stimulated aggregation of cell surface receptors, which potentiates the action of the effector cell.	细胞表面受体以化学方法受激的聚集，使效应细胞的作用成为可能。
+Cholinergic receptors are divided into two major classes, muscarinic and nicotinic, based originally on their affinity for nicotine and muscarine.	最初基于胆碱能受体对烟碱和蕈毒碱的亲和力不同被分成两大类：毒蕈碱受体和烟碱受体。
+Collagen receptors include discoidin domain receptors, INTEGRINS, and glycoprotein VI.	胶原受体包括盘状结构域受体、整联蛋白和糖蛋白VI。
+Compounds that bind to and block the stimulation of PURINERGIC P1RECEPTORS.	一类能结合并抑制嘌呤能P1受体活性的化合物。
+Compounds that bind to and block the stimulation of PURINERGIC P2YRECEPTORS.	一类能结合并抑制嘌呤能P2Y受体活性的化合物。
+Compounds that bind to and inhibit the activation of ANDROGENRECEPTORS.	一类能结合并抑制雄激素受体活性的化合物。
+
+热	Heat
+干咳	dry cough
+阴虚肺燥	YIN deficiency and lung dryness
+润燥	moistening dryness
+手足心热	feverish palms and soles
+肝火	liver- fire
+里	Interior
+理	Regulating
+理气	regulating qi
+津	body fluid
+实热	sthenic heat
+消肿	relieving swelling
+瘀	blood stasis
+风虫牙痛	toothache
+果蔷薇叶鲜叶	fresh leaf of Radix Rosae Cymosae /Rosa cymosaTratt
+芙蓉花/木芙蓉花/拒霜花	drying Flos Hibisci Mutabilis (Hibiscus mutabilis, Cotton rose)
+用于……（预防或治疗疾病）的药物组合物	A Chinese medicine composition used for (the prevention and treatment of)
+防治	for the prevention and treatment of
+一种已知中药组合物的新的制备方法和新的剂型，用于治疗肾虚腰痛、尿后余沥等	The New preparation method and dosage formof a known Chinese medicinal medicine composition,which can be used for the treatment oflumbago due to renal deficiency, and dribble of urine
+中药水菖蒲用于治疗中耳炎的新用途	the new use of Rhizoma Acori Calamiused for treating（the treatment of）otitis media
+本品通过…(各道工序)制备而成	Said product is prepared by …
+取部分穿山龙粉碎成细粉，剩余穿山龙粉碎成粗粉，用50-95％乙醇提取，提取液回收乙醇，备用；	pulverize part of Dioscoreanipponica Mak. Ningpo Yam Rhizome to fine powder, pulverizethe surplus to coarse powder,extract with 50-95% ethanol,remove ethanol for subsequent use
+将红参粉碎成细粉，	Pulverize Radix Ginseng Rubra to fine powder
+粉碎	pulverize
+回流	reflux
+真空干燥	vacuum dry
+烘干	oven dry
+研磨（研碎）	grind
+回收	reclaim
+灭菌 (消毒)	sterilize

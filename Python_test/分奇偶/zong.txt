@@ -1,0 +1,138 @@
+﻿The Passwords table has five lines with four columns
+密码表单有五行和四列
+Automatic processing of Remote Transmission Requests<br
+远程传输请求的自动处理<br
+You can download a digital version the After Sales Business Reference Guide via
+你可以通过以下路径下载电子版《售后服务业务参考指南
+conversation view in Outlook that helps you keep your Inbox organized
+Outlook 中的会话视图有助于使您的收件箱保持有序
+Create a database and a database connection
+创建一个数据库和一个数据库连接
+As already known from the customer search, the result list can be personalized (Change sequence, availability width of columns
+如客户搜索章节所述，可以对结果列表进行个性化设置(改变顺序、修改各列的宽度
+Once a USB device is plugged in, the PRSE automatically switches to this source and the data structure will be displayed
+插入USB 设备后，PRSE 自动切换到此来源，并显示其数据结构
+Because games for Windows Live doesn't allow saved games created by one profile to be transferred to another, you will need to use the following procedure to enable the saved games
+因为针对Windows Live的游戏无法将配置文件所创建的游戏传输给他人，所以你需要使用下列步骤来激活已保存的游戏
+Edit Existing Reference Job
+编辑现有参考职位
+Streamlines and simplifies PC management across your business and throughout the PC lifecycle
+简化整个企业内和整个PC 生命周期中的PC 管理
+Monitored process virtual bytes require > 80% of physical memory
+被监控进程虚拟字节超过物理内存的80
+Select Input signals in the 911 (996) telephone/telematics function selection and confirm with the
+在911 (996) 电话/车载信息系统功能选择中选择“Input signals”（输入信号），并用确认
+To get around this, you need to manually backup and restore your saved games
+为了解决这一问题，评测人员需要手动备份和恢复已保存的游戏
+Select Coding and activate with the key
+选择Coding（编码）并使用键启动
+Operator Prompting / Operator Terminal / "Change Heads" Function
+操作提示/操作终端/ “Change Heads” 功能
+Colleague Connect is now your homepage — that is, the page that appears when you open your browser each morning
+Colleague Connect 现在是您的主页，即您每天早上打开浏览器后显示的页面
+Click the Save button to save the file
+点击“保存”按钮保存文件
+One Step Logon does not support Power-On Authentication with the Trusted Platform Module
+一步登录功能不支持采用可信平台模块的开机验证
+Primary workstation considerations are not surprising: graphics card performance, storage, the amount of RAM, and processing speed
+选择工作站时需要考虑的主要因素可谓老生常谈：显卡性能、硬盘、RAM 和处理速度
+Click onthe " PRINT" button next to the form you want to print
+单击要打印的表单旁的“PRINT”（打印）按钮
+Hyperlinks are always automatically placed under the Documents folder in the measuring point tree
+超链接通常会自动添加到测点树内的文件夹下面
+Maximum memory capacities assume Windows 64-bit operating systems or Linux
+假定最大内存容量可兼容Windows 64 位操作系统或Linux
+The user's database access level is determined by the Modify... setting
+用户数据库访问级别由“修改……” (Modify...) 设置确定
+Windows 7, Windows 8.1 are currently supported
+目前支持的操作系统是Windows 7和Windows 8.1
+Active Shipping Systems – Performance Qualification Summary Report Template
+主动运输系统——性能资格认证总结报告模板
+Missing check code for following repair orders
+下列维修工单的检查代码丢失
+Go to www.apple.com/ios/carplay for information about the supported apps
+访问www.apple.com/ios/carplay 了解所支持的应用程序的信息
+By default, tree structure and measuring point setup are not included
+在默认状态下，树形结构和测点不包含在内
+Choose „Call Log
+选择“呼叫日志
+Windows 7 Professional 32 (National Accademic only) 1
+Windows 7 专业版32 位(仅限全国学术版)1
+View list of running gadgets
+查看正在运行的小工具列表
+An error (%1) occurred while setting file size of the file %2. %3\r
+设置文件 %2 的文件大小时出现错误(%1)。%3\r
+ADAMSync metadata schema extension. Required for ADAMSync operation.
+ADAMSync 元数据架构扩展。为 ADAMSync 操作所需。
+Home Computer Restore Instructions
+家庭计算机还原说明
+Failed to get Site Version from Active Directory and SLP.
+无法从 Active Directory 和 SLP 获取站点版本。
+Correcting the Main Volume Descriptor Sequence using the\rReserve Volume Descriptor Sequence.\r
+正在使用保留卷描述符序列更正\r主卷描述符序列。\r
+%s This working directory is invalid: %s Please consult help for more information
+%s 这个工作目录无效: %s 请查询帮助以获取详细信息
+Indicates that the page should be compiled using the Visual Basic Option Strict mode.
+指示应使用 Visual Basic Option Strict 模式编译页。
+Event handler for the Click event of the orderButton.
+orderButton 的 Click 事件的事件处理程序。
+The current .NET security policy does not permit the customization to run.
+当前的 .NET 安全策略不允许自定义项运行。
+Do not change the security policy in your computer.
+不要更改计算机中的安全策略。
+The .NET security policy is controlled by your administrator or the developer who wrote the customization.
+.NET 安全策略由管理员或编写自定义项的开发人员控制。
+ You can still edit and save the document.
+ 您仍可以编辑和保存文档。
+ Contact your administrator or the author of this document for further assistance.
+请与管理员或此文档的作者联系，以获得进一步的帮助。
+The currently installed version of Windows Rights Management (AD RMS), {0}.{1}.{2}, is newer than the version that AD RMS Setup is attempting to install {3}.{4}.{5}.
+当前安装的 Windows Rights Management (AD RMS)版本({0}.{1}.{2})比 AD RMS 安装程序尝试安装的版本({3}.{4}.{5})新。
+If you need to install this version, you must uninstall the current version and remove the configuration database before running AD RMS Setup.
+如果需要安装此版本，您必须卸载当前版本，并在运行 AD RMS 安装程序之前删除配置数据库。
+Windows can't be upgraded to this build
+无法将 Windows 升级到此内部版本
+The same property has been selected twice as a shared property.
+同一属性被两次选择作为共享属性。
+Pick a section where to put the copied screen clipping:
+选取一个分区以放入复制的屏幕剪辑:
+This policy setting specifies how Visio determines what language to use when converting to or from an earlier version of Visio.
+此策略设置可指定 Visio 如何确定转换为较早版本的 Visio 或从较早版本的 Visio 转换时要使用的语言。
+ If you enable this policy setting, you may select from one of these options:- Let Visio decide language- Prompt for language- Use the following language: You must specify the numeric Microsoft Locale ID (LCID) for that language.
+ 如果启用此策略设置，则可从以下选项之一中选择:- 由 Visio 决定语言- 提示语言- 使用以下语言: 您必须指定该语言的数字 Microsoft 区域设置 ID (LCID)。
+ If you disable or do not configure this policy setting, Visio decides what language to use.
+ 如果禁用或未配置此策略设置，Visio 将决定使用哪种语言。
+Select the request offerings that users will see grouped under this service offering
+选择用户将看到分组在此服务产品下的的请求产品
+Demonstrates using MemberConflict.Resolve to write a custom resolve rule.
+演示使用 MemberConflict.Resolve 编写自定义解决规则。
+Aging and scavenging together provide a mechanism for removing stale resource records.
+老化和清理一起提供了一种删除过时资源记录的机制。
+These resource records can accumulate in DNS zone data over time when computers permanently leave the network.
+在计算机永久离开网络后的一段时间内，这些资源记录可以堆积在 DNS 区域数据中。
+For example, if a computer registers its host (A) resource record at startup and is later disconnected from the network, its host (A) resource record might not be deleted.
+例如，如果计算机在启动时注册其主机(A)资源记录后与网络断开连接，则不会删除其主机(A)资源记录。
+If your network has mobile users and computers, this situation can occur frequently.
+如果您的网络具有移动用户和计算机，会频繁发生这种情况。
+Deleting '%1' from Web site '%2'.
+正在从网站“%2”中删除“%1”。
+A string that specifies the way referrals are shared among peers.
+一个字符串，指定在多个对等方之间共享引荐的方式。
+Remote Desktop Session Host server version:
+远程桌面会话主机服务器版本:
+Timeout occurred while waiting for data and diagnostics collection.
+等待数据和诊断收集时出现超时。
+No Object Permissions
+无对象权限
+Session Timeout for idle UDP
+空闲 UDP 的会话超时
+The specified node property ID is either not valid or not supported.
+指定的节点属性 ID 无效或不受支持。
+Error returned when reading HTTP Request response %1{AsyncError}\r
+读取 HTTP 请求响应时返回错误 %1{AsyncError}\r
+Use the 'Register Online Protection' wizard in Online Management view to configure recovery staging folder and then retry the operation.
+请使用“联机管理”视图中的“注册在线保护”向导配置恢复暂存文件夹，然后重试此操作。
+Precomputed partitions is a performance optimization that can be used with filtered merge publications.
+预计算分区是一种性能优化方法，可用于已筛选的合并发布。
+Your Windows Live security settings have changed[OTTMessage eMessageDeliveryChannel_Email eIOTT_RecoverLostProofs]
+您的 Windows Live 安全设置已更改[OTTMessage eMessageDeliveryChannel_Email eIOTT_RecoverLostProofs]
